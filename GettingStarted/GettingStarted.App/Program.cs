@@ -15,6 +15,7 @@ namespace GettingStarted.App
             Console.WriteLine("Last line");
 
             Console.WriteLine("Daven's line");
+            Console.WriteLine("Line written from remote");
 
         }
     }
