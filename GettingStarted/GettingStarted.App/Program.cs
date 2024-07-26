@@ -13,11 +13,9 @@ namespace GettingStarted.App
             Console.WriteLine("Hello Pro Grammer TV!");
             Console.WriteLine("Test commit");
             Console.WriteLine("Last line");
-<<<<<<< Updated upstream
-            Console.WriteLime("Daven's line");
-=======
-            
->>>>>>> Stashed changes
+
+            Console.WriteLine("Daven's line");
+
         }
     }
 }
